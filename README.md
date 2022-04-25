@@ -30,4 +30,4 @@ Access any of they play lists and edit them by removing a track or favoriting it
 |![](https://i.imgur.com/OtFMuKy.png)|![](https://i.imgur.com/5cD4rE2.png)|![](https://i.imgur.com/nHKvCIY.png)|![](https://i.imgur.com/V1AQMLY.png)|
 |:---:|:---:|:---:|:---:|
 
-What to know how I created the library.json content? Checkout my [Automation Endevours repo](https://github.com/csfelipe/AutomationEndevours).
+Want to know how I created the `library.json` content? Checkout my [Automation Endevours repo](https://github.com/csfelipe/AutomationEndevours).
